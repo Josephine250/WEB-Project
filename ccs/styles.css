@@ -1,0 +1,35 @@
+#main-title {
+    font-family: 'Georgia', serif;
+    color: rgb;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  /* Class selector */
+  .card {
+    border: 1px solid ;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: greenyellow;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Element selector */
+  p {
+    font-size: 16px;
+    color: blueviolet;
+    line-height: 1.6;
+    margin: 10px 0;
+  }
+  
+  /* Styling an image */
+  img.profile {
+    border: 3px solid #0077cc;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 10px auto;
+    display: block;
+    max-width: 200px;
+  }
